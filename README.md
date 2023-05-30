@@ -20,4 +20,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here!](https://github.com/Jinzero10/huddle-landing-page.git)
-- Live Site URL: [Click Here!](https://huddle-landing-page-jin.netlify.app/)
+- Live Site URL: [Click Here!](https://huddle-landing-page-jinnn.netlify.app/)
